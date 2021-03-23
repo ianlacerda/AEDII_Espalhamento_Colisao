@@ -21,7 +21,7 @@ Neste repositório estão presentes cinco arquivos em Python, um notebook Jupyte
 <img src="ex1_a.png"></img>
 
 b) Podemos notar como padrão que os espalhamentos com valor igual a 3 no intervalo de chaves de 0 a 100 com resto da divisão com valor 11 ocorrem com chaves k pares e ímpares e com intervalos de 11 em 11. Apresenta também 9 ocorrências de colisão.
-<img src="ex2_b.png"></img>
+<img src="ex1_b.png"></img>
 
 c) A tabela com os respectivos valores da função espalhamento h(k) está neste repositório e a imagem abaixo descreve o comportamento da função.
 <img src="ex1_c.png"></img>
