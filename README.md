@@ -17,8 +17,9 @@ Serão analisadas a ocorrência de colisões e a maneira pelas quais cada respec
 
 Neste repositório estão presentes <b>cinco arquivos em Python</b>, <b>um notebook Jupyter</b>, um arquivo csv <b>"ex1_c.py"</b> com as saídas do <b>exercício 1 c)</b> e este arquivo <b>Leia-Me</b> com a definição do escopo do projeto. Sendo que este último é fruto de uma atividade pedida na disciplina de Algoritmos e Estruturas de Dados II, ministrada pelo professor Carlos da Silva dos Santos, da Universidade Federal do ABC (UFABC).
 
-
-1) a) Podemos notar como padrão que os espalhamentos com valor igual a 3 no intervalo de chaves de 0 a 100 com resto da divisão com valor 12 ocorrem com chaves k ímpares e com intervalos de 12 em 12. Apresenta também 9 ocorrências de colisão.
+<h2>Questão 1</h2>
+ 
+a) Podemos notar como padrão que os espalhamentos com valor igual a 3 no intervalo de chaves de 0 a 100 com resto da divisão com valor 12 ocorrem com chaves k ímpares e com intervalos de 12 em 12. Apresenta também 9 ocorrências de colisão.
 <img src="ex1_a.png"></img>
 
 b) Podemos notar como padrão que os espalhamentos com valor igual a 3 no intervalo de chaves de 0 a 100 com resto da divisão com valor 11 ocorrem com chaves k pares e ímpares e com intervalos de 11 em 11. Apresenta também 9 ocorrências de colisão.
@@ -28,7 +29,9 @@ c) A tabela com os respectivos valores da função espalhamento h(k) está neste
 <img src="ex1_c.png"></img>
 
 
-2) a) Imagem da contagem de colisões da função espalhamento da multiplicação.
+<h2>Questão 2</h2>
+
+a) Imagem da contagem de colisões da função espalhamento da multiplicação.
 <img src="ex2_a.png"></img>
 
 
