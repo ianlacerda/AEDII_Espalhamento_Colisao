@@ -15,7 +15,7 @@ AEDII - Funções de Espalhamento e análise de suas colisões.
 Serão analisadas a ocorrência de colisões e a maneira pelas quais cada respectiva função de espalhamento se comportará com a entrada de valores distintos.
 
 
-<h4>Neste repositório estão presentes cinco arquivos em Python, <b>um notebook Jupyter</b>, um arquivo csv <b>"ex1_c.py"</b> com as saídas do <b>exercício 1 c)<b> e este arquivo <b>Leia-Me</b> com a definição do escopo do projeto. Sendo que este último é fruto de uma atividade pedida na disciplina de Algoritmos e Estruturas de Dados II, ministrada pelo professor Carlos da Silva dos Santos, da Universidade Federal do ABC (UFABC).</h4>
+Neste repositório estão presentes cinco arquivos em Python, <b>um notebook Jupyter</b>, um arquivo csv <b>"ex1_c.py"</b> com as saídas do <b>exercício 1 c)<b> e este arquivo <b>Leia-Me</b> com a definição do escopo do projeto. Sendo que este último é fruto de uma atividade pedida na disciplina de Algoritmos e Estruturas de Dados II, ministrada pelo professor Carlos da Silva dos Santos, da Universidade Federal do ABC (UFABC).
 
 
 1) a) Podemos notar como padrão que os espalhamentos com valor igual a 3 no intervalo de chaves de 0 a 100 com resto da divisão com valor 12 ocorrem com chaves k ímpares e com intervalos de 12 em 12. Apresenta também 9 ocorrências de colisão.
