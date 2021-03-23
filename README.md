@@ -14,9 +14,6 @@ AEDII - Funções de Espalhamento e análise de suas colisões.
 
 Serão analisadas a ocorrência de colisões e a maneira pelas quais cada respectiva função de espalhamento se comportará com a entrada de valores distintos.
 
-<br>
-<br>
-
 Neste repositório estão presentes <b>cinco arquivos em Python</b>, <b>um notebook Jupyter</b>, um arquivo csv <b>"ex1_c.py"</b> com as saídas do <b>exercício 1 c)</b> e este arquivo <b>Leia-Me</b> com a definição do escopo do projeto. Sendo que este último é fruto de uma atividade pedida na disciplina de Algoritmos e Estruturas de Dados II, ministrada pelo professor Carlos da Silva dos Santos, da Universidade Federal do ABC (UFABC).
 <br>
 <br>
