@@ -3,7 +3,8 @@ AEDII - Funções de Espalhamento e análise de suas colisões.
 
 
 <h1>Relatório: Funções de Espalhamento e Colisões</h1>
-<p>Aluno: Ian Lacerda da Silva RA: 11115514</p>
+<p>Aluno: Ian Lacerda da Silva</p>
+<p>RA: 11115514</p>
 <p>Disciplina: Algoritmos e Estruturas de Dados II</p>
 <p>Professor: Carlos da Silva dos Santos</p>
 <p>UFABC 2021</p>
