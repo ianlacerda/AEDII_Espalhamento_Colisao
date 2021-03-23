@@ -35,7 +35,7 @@ c) A tabela com os respectivos valores da função espalhamento h(k) está neste
 b) Imagem da contagem de colisões da função espalhamento da multiplicação.
 <img src="ex2_b.png"></img>
 
-a) e b) Discussão: 
+<h4>a) e b) Discussão: </h4>
 
 Vemos pelos gráficos acima que ao utlizarmos o valor 0.61803398875 para a incógnita A da função de espalhamento pela divisão, obtivemos um perfil mais concentrado do espalhamento em detrimento de A = 0.62 que apresentou um perfil mais disperso. 
 
