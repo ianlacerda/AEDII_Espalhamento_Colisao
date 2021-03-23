@@ -9,7 +9,7 @@ AEDII - Funções de Espalhamento e análise de suas colisões.
 <p>UFABC 2021</p>
 
 
-<a style="color:rgb(200,100,100)">O presente projeto tem como finalidade testar o comportamento das funções de espalhamento da multiplicação e divisão utlizando algoritmos de hashing. 
+<a style="color:rgb(200,100,100);">O presente projeto tem como finalidade testar o comportamento das funções de espalhamento da multiplicação e divisão utlizando algoritmos de hashing. 
 
 Serão analisadadas a ocorrência de colisões e a maneira pelas quais cada respectiva função de espalhamento se comportará com a entrada de valores distintos.
 
