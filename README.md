@@ -3,10 +3,10 @@ AEDII - Funções de Espalhamento e análise de suas colisões.
 
 
 <h1>Relatório: Funções de Espalhamento e Colisões</h1>
-Aluno: Ian Lacerda da Silva RA: 11115514
-Disciplina: Algoritmos e Estruturas de Dados II
-Professor: Carlos da Silva dos Santos
-UFABC 2021
+<p>Aluno: Ian Lacerda da Silva RA: 11115514</p>
+<p>Disciplina: Algoritmos e Estruturas de Dados II</p>
+<p>Professor: Carlos da Silva dos Santos</p>
+<p>UFABC 2021</p>
 
 
 O presente projeto tem como finalidade testar o comportamento das funções de espalhamento da multiplicação e divisão utlizando algoritmos de hashing. 
